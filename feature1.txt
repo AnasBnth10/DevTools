@@ -1,3 +1,3 @@
 feature 1
 
-updated via github
+GET and FILTER data from the DB' to 'GET and FILTER data from the DB but without bugs please
