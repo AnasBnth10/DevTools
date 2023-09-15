@@ -1,1 +1,1 @@
-Creating readme file for Accademict training on Devtools Updated
+Creating readme file for Accademict training on Devtools Updated on github
